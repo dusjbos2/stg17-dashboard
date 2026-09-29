@@ -1,3 +1,9 @@
+**Live dashboard: <https://dusjbos2.github.io/stg17-dashboard/>**
+
+Rebuilt by running the notebook in this repository against the source publication. Last published 2026-09-29.
+
+---
+
 # Urban Consumer Price Index (CPI)
 
 Bilingual (EN/FR) dashboard built from **REPUBLIC OF RWANDA**, pages 3, 7, 9.
