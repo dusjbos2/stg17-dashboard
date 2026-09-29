@@ -1,0 +1,1609 @@
+{
+ "meta": {
+  "publisher": {
+   "en": "National Institute of Statistics",
+   "fr": "Institut National de la Statistique"
+  },
+  "country": {
+   "en": "",
+   "fr": ""
+  },
+  "docTitle": {
+   "en": "REPUBLIC OF RWANDA",
+   "fr": "REPUBLIC OF RWANDA"
+  },
+  "period": {
+   "en": "",
+   "fr": ""
+  },
+  "sourceUrl": "https://statistics.gov.rw/sites/default/files/documents/2025-09/CPI%20Publication%20_English_August_2025.pdf",
+  "licence": {
+   "en": "Source data: as published by the institute. Dashboard code: MIT.",
+   "fr": "Données source : telles que publiées par l'institut. Code : MIT."
+  },
+  "contact": {
+   "en": "Built at the STG17 technical workshop, lab 02.",
+   "fr": "Réalisé lors de l'atelier technique STG17, labo 02."
+  },
+  "defaultLang": "fr",
+  "synthetic": false,
+  "generated": "2026-09-29"
+ },
+ "areas": [
+  {
+   "id": "01-food-and-non-alcoholic-beverages",
+   "fr": "01 Food and non-alcoholic beverages",
+   "en": "Food and non‑alcoholic beverages"
+  },
+  {
+   "id": "01-1-1-bread-and-cereals",
+   "fr": "01.1.1 Bread and cereals",
+   "en": "Bread and cereals"
+  },
+  {
+   "id": "01-1-2-meat",
+   "fr": "01.1.2 Meat",
+   "en": "Meat"
+  },
+  {
+   "id": "01-1-4-milk-cheese-and-eggs",
+   "fr": "01.1.4 Milk cheese and eggs",
+   "en": "Milk, cheese and eggs"
+  },
+  {
+   "id": "01-1-7-vegetables",
+   "fr": "01.1.7 Vegetables",
+   "en": "Vegetables"
+  },
+  {
+   "id": "01-2-non-alcoholic-beverages",
+   "fr": "01.2 Non-alcoholic beverages",
+   "en": "Non‑alcoholic beverages"
+  },
+  {
+   "id": "02-alcoholic-beverages-tobacco-and-narcotics",
+   "fr": "02 Alcoholic beverages tobacco and narcotics",
+   "en": "Alcoholic beverages, tobacco and narcotics"
+  },
+  {
+   "id": "03-clothing-and-footwear",
+   "fr": "03 Clothing and footwear",
+   "en": "Clothing and footwear"
+  },
+  {
+   "id": "04-housing-water-electricity-gas-and-other-fuels",
+   "fr": "04 Housing water, electricity, gas and other fuels",
+   "en": "Housing, water, electricity, gas and other fuels"
+  },
+  {
+   "id": "05-furnishings-household-equipment-and-routine-household-maintenance",
+   "fr": "05 Furnishings household equipment and routine household maintenance",
+   "en": "Furnishings, household equipment and routine household maintenance"
+  },
+  {
+   "id": "06-health",
+   "fr": "06 Health",
+   "en": "Health"
+  },
+  {
+   "id": "07-transport",
+   "fr": "07 Transport",
+   "en": "Transport"
+  },
+  {
+   "id": "08-communication",
+   "fr": "08 Communication",
+   "en": "Communication"
+  },
+  {
+   "id": "09-recreation-and-culture",
+   "fr": "09 Recreation and culture",
+   "en": "Recreation and culture"
+  },
+  {
+   "id": "10-education",
+   "fr": "10 Education",
+   "en": "Education"
+  },
+  {
+   "id": "11-restaurants-and-hotels",
+   "fr": "11 Restaurants and hotels",
+   "en": "Restaurants and hotels"
+  },
+  {
+   "id": "12-miscellaneous-goods-and-services",
+   "fr": "12 Miscellaneous goods and services",
+   "en": "Miscellaneous goods and services"
+  },
+  {
+   "id": "core-underlying-index",
+   "fr": "Core / Underlying index",
+   "en": "Core (Underlying) index"
+  },
+  {
+   "id": "nat",
+   "fr": "GENERAL INDEX",
+   "en": "General index",
+   "national": true
+  }
+ ],
+ "kpis": [
+  {
+   "labels": {
+    "en": "General index – August 2024 vs August 2025",
+    "fr": "Indice général – Août 2024 vs août 2025"
+   },
+   "value": 7.1,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "delta": null,
+   "deltaLabel": {
+    "en": "vs None",
+    "fr": "vs None"
+   },
+   "good": "down",
+   "highlight": true
+  },
+  {
+   "labels": {
+    "en": "Core index – January annual change",
+    "fr": "Indice de base – Variation annuelle de janvier"
+   },
+   "value": 5.7,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "delta": null,
+   "deltaLabel": {
+    "en": "vs None",
+    "fr": "vs None"
+   },
+   "good": "down",
+   "highlight": false
+  }
+ ],
+ "series": {
+  "cpi_urban_aug2025": {
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "periods": [
+    "Weights",
+    "on Aug. 2024",
+    "on Jul. 2025"
+   ],
+   "values": {
+    "01-food-and-non-alcoholic-beverages": [
+     27.0,
+     5.4,
+     0.9
+    ],
+    "01-1-1-bread-and-cereals": [
+     5.0,
+     8.3,
+     0.6
+    ],
+    "01-1-2-meat": [
+     2.0,
+     25.4,
+     0.0
+    ],
+    "01-1-4-milk-cheese-and-eggs": [
+     1.0,
+     7.1,
+     0.7
+    ],
+    "01-1-7-vegetables": [
+     9.0,
+     -5.1,
+     2.9
+    ],
+    "01-2-non-alcoholic-beverages": [
+     1.0,
+     8.2,
+     1.0
+    ],
+    "02-alcoholic-beverages-tobacco-and-narcotics": [
+     5.0,
+     13.5,
+     1.4
+    ],
+    "03-clothing-and-footwear": [
+     5.0,
+     5.1,
+     0.5
+    ],
+    "04-housing-water-electricity-gas-and-other-fuels": [
+     21.0,
+     2.3,
+     0.6
+    ],
+    "05-furnishings-household-equipment-and-routine-household-maintenance": [
+     4.0,
+     9.8,
+     3.0
+    ],
+    "06-health": [
+     1.0,
+     70.5,
+     -0.1
+    ],
+    "07-transport": [
+     12.0,
+     6.9,
+     0.1
+    ],
+    "08-communication": [
+     3.0,
+     4.0,
+     0.0
+    ],
+    "09-recreation-and-culture": [
+     3.0,
+     -0.8,
+     0.6
+    ],
+    "10-education": [
+     3.0,
+     8.3,
+     0.0
+    ],
+    "11-restaurants-and-hotels": [
+     9.0,
+     18.5,
+     0.8
+    ],
+    "12-miscellaneous-goods-and-services": [
+     6.0,
+     5.4,
+     0.6
+    ],
+    "nat": [
+     100.0,
+     7.1,
+     0.7
+    ]
+   }
+  },
+  "cpi_urban_annual_change": {
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "periods": [
+    "Apr.",
+    "Aug.",
+    "Dec.",
+    "Feb.",
+    "Jan.",
+    "Jul.",
+    "Jun.",
+    "Mar.",
+    "May.",
+    "Nov.",
+    "Oct.",
+    "Sep."
+   ],
+   "values": {
+    "core-underlying-index": [
+     5.8,
+     6.2,
+     5.7,
+     5.7,
+     5.7,
+     5.6,
+     5.6,
+     5.8,
+     5.6,
+     5.7,
+     5.8,
+     6.0
+    ],
+    "nat": [
+     5.4,
+     6.6,
+     4.8,
+     5.1,
+     5.0,
+     5.9,
+     5.7,
+     5.3,
+     5.5,
+     4.7,
+     5.1,
+     5.7
+    ]
+   }
+  }
+ },
+ "views": [
+  {
+   "id": "cpi_urban_aug2025",
+   "chart": "grouped",
+   "tab": {
+    "en": "August 2025 CPI",
+    "fr": "IPC août 2025"
+   },
+   "title": {
+    "en": "Percentage change in August 2025 (Urban CPI)",
+    "fr": "Variation en pourcentage en août 2025 (IPC urbain)"
+   },
+   "sub": {
+    "en": "Changes relative to August 2024 and July 2025, with component weights.",
+    "fr": "Évolutions par rapport à août 2024 et juillet 2025, avec les pondérations des composantes."
+   },
+   "lede": {
+    "en": "The chart compares the August 2025 change with the previous August and July, highlighting each component’s weight.",
+    "fr": "Le graphique compare la variation d’août 2025 avec celle d’août 2024 et de juillet 2025, en soulignant la pondération de chaque composante."
+   },
+   "src": {
+    "en": "National Institute of Statistics, Rwanda",
+    "fr": "Institut national de la statistique, Rwanda"
+   }
+  },
+  {
+   "id": "cpi_urban_annual_change",
+   "chart": "line",
+   "tab": {
+    "en": "Annual change",
+    "fr": "Variation annuelle"
+   },
+   "title": {
+    "en": "Urban CPI – Core and General index annual percentage change",
+    "fr": "IPC urbain – Indice de base et indice général, variation annuelle en pourcentage"
+   },
+   "sub": {
+    "en": "Monthly series of 12‑month percentage changes for 2024‑2025.",
+    "fr": "Séries mensuelles des variations en pourcentage sur 12 mois pour 2024‑2025."
+   },
+   "lede": {
+    "en": "The line chart shows the evolution of the core and general indices over the year.",
+    "fr": "Le graphique en courbe montre l’évolution des indices de base et général au cours de l’année."
+   },
+   "src": {
+    "en": "National Institute of Statistics, Rwanda",
+    "fr": "Institut national de la statistique, Rwanda"
+   }
+  }
+ ],
+ "facts": [
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "nat",
+   "period": "Weights",
+   "value": 100.0,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "GENERAL INDEX 100% 0.7% 7.1%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "nat",
+   "period": "on Jul. 2025",
+   "value": 0.7,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "GENERAL INDEX 100% 0.7% 7.1%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "nat",
+   "period": "on Aug. 2024",
+   "value": 7.1,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "GENERAL INDEX 100% 0.7% 7.1%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "01-food-and-non-alcoholic-beverages",
+   "period": "Weights",
+   "value": 27.0,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "01 Food and non-alcoholic beverages 27% 0.9% 5.4%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "01-food-and-non-alcoholic-beverages",
+   "period": "on Jul. 2025",
+   "value": 0.9,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "01 Food and non-alcoholic beverages 27% 0.9% 5.4%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "01-food-and-non-alcoholic-beverages",
+   "period": "on Aug. 2024",
+   "value": 5.4,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "01 Food and non-alcoholic beverages 27% 0.9% 5.4%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "01-1-1-bread-and-cereals",
+   "period": "Weights",
+   "value": 5.0,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "01.1.1 Bread and cereals 5% 0.6% 8.3%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "01-1-1-bread-and-cereals",
+   "period": "on Jul. 2025",
+   "value": 0.6,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "01.1.1 Bread and cereals 5% 0.6% 8.3%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "01-1-1-bread-and-cereals",
+   "period": "on Aug. 2024",
+   "value": 8.3,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "01.1.1 Bread and cereals 5% 0.6% 8.3%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "01-1-2-meat",
+   "period": "Weights",
+   "value": 2.0,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "01.1.2 Meat 2% 0.0% 25.4%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "01-1-2-meat",
+   "period": "on Jul. 2025",
+   "value": 0.0,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "01.1.2 Meat 2% 0.0% 25.4%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "01-1-2-meat",
+   "period": "on Aug. 2024",
+   "value": 25.4,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "01.1.2 Meat 2% 0.0% 25.4%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "01-1-4-milk-cheese-and-eggs",
+   "period": "Weights",
+   "value": 1.0,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "01.1.4 Milk cheese and eggs 1% 0.7% 7.1%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "01-1-4-milk-cheese-and-eggs",
+   "period": "on Jul. 2025",
+   "value": 0.7,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "01.1.4 Milk cheese and eggs 1% 0.7% 7.1%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "01-1-4-milk-cheese-and-eggs",
+   "period": "on Aug. 2024",
+   "value": 7.1,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "01.1.4 Milk cheese and eggs 1% 0.7% 7.1%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "01-1-7-vegetables",
+   "period": "Weights",
+   "value": 9.0,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "01.1.7 Vegetables 9% 2.9% -5.1%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "01-1-7-vegetables",
+   "period": "on Jul. 2025",
+   "value": 2.9,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "01.1.7 Vegetables 9% 2.9% -5.1%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "01-1-7-vegetables",
+   "period": "on Aug. 2024",
+   "value": -5.1,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "01.1.7 Vegetables 9% 2.9% -5.1%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "01-2-non-alcoholic-beverages",
+   "period": "Weights",
+   "value": 1.0,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "01.2 Non-alcoholic beverages 1% 1.0% 8.2%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "01-2-non-alcoholic-beverages",
+   "period": "on Jul. 2025",
+   "value": 1.0,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "01.2 Non-alcoholic beverages 1% 1.0% 8.2%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "01-2-non-alcoholic-beverages",
+   "period": "on Aug. 2024",
+   "value": 8.2,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "01.2 Non-alcoholic beverages 1% 1.0% 8.2%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "02-alcoholic-beverages-tobacco-and-narcotics",
+   "period": "Weights",
+   "value": 5.0,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "02 Alcoholic beverages tobacco and narcotics 5% 1.4% 13.5%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "02-alcoholic-beverages-tobacco-and-narcotics",
+   "period": "on Jul. 2025",
+   "value": 1.4,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "02 Alcoholic beverages tobacco and narcotics 5% 1.4% 13.5%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "02-alcoholic-beverages-tobacco-and-narcotics",
+   "period": "on Aug. 2024",
+   "value": 13.5,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "02 Alcoholic beverages tobacco and narcotics 5% 1.4% 13.5%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "03-clothing-and-footwear",
+   "period": "Weights",
+   "value": 5.0,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "03 Clothing and footwear 5% 0.5% 5.1%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "03-clothing-and-footwear",
+   "period": "on Jul. 2025",
+   "value": 0.5,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "03 Clothing and footwear 5% 0.5% 5.1%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "03-clothing-and-footwear",
+   "period": "on Aug. 2024",
+   "value": 5.1,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "03 Clothing and footwear 5% 0.5% 5.1%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "04-housing-water-electricity-gas-and-other-fuels",
+   "period": "Weights",
+   "value": 21.0,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "04 Housing water, electricity, gas and other fuels 21% 0.6% 2.3%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "04-housing-water-electricity-gas-and-other-fuels",
+   "period": "on Jul. 2025",
+   "value": 0.6,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "04 Housing water, electricity, gas and other fuels 21% 0.6% 2.3%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "04-housing-water-electricity-gas-and-other-fuels",
+   "period": "on Aug. 2024",
+   "value": 2.3,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "04 Housing water, electricity, gas and other fuels 21% 0.6% 2.3%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "05-furnishings-household-equipment-and-routine-household-maintenance",
+   "period": "Weights",
+   "value": 4.0,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "05 Furnishings household equipment and routine household maintenance 4% 3.0% 9.8%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "05-furnishings-household-equipment-and-routine-household-maintenance",
+   "period": "on Jul. 2025",
+   "value": 3.0,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "05 Furnishings household equipment and routine household maintenance 4% 3.0% 9.8%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "05-furnishings-household-equipment-and-routine-household-maintenance",
+   "period": "on Aug. 2024",
+   "value": 9.8,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "05 Furnishings household equipment and routine household maintenance 4% 3.0% 9.8%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "06-health",
+   "period": "Weights",
+   "value": 1.0,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "06 Health 1% -0.1% 70.5%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "06-health",
+   "period": "on Jul. 2025",
+   "value": -0.1,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "06 Health 1% -0.1% 70.5%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "06-health",
+   "period": "on Aug. 2024",
+   "value": 70.5,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "06 Health 1% -0.1% 70.5%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "07-transport",
+   "period": "Weights",
+   "value": 12.0,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "07 Transport 12% 0.1% 6.9%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "07-transport",
+   "period": "on Jul. 2025",
+   "value": 0.1,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "07 Transport 12% 0.1% 6.9%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "07-transport",
+   "period": "on Aug. 2024",
+   "value": 6.9,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "07 Transport 12% 0.1% 6.9%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "08-communication",
+   "period": "Weights",
+   "value": 3.0,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "08 Communication 3% 0.0% 4.0%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "08-communication",
+   "period": "on Jul. 2025",
+   "value": 0.0,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "08 Communication 3% 0.0% 4.0%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "08-communication",
+   "period": "on Aug. 2024",
+   "value": 4.0,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "08 Communication 3% 0.0% 4.0%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "09-recreation-and-culture",
+   "period": "Weights",
+   "value": 3.0,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "09 Recreation and culture 3% 0.6% -0.8%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "09-recreation-and-culture",
+   "period": "on Jul. 2025",
+   "value": 0.6,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "09 Recreation and culture 3% 0.6% -0.8%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "09-recreation-and-culture",
+   "period": "on Aug. 2024",
+   "value": -0.8,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "09 Recreation and culture 3% 0.6% -0.8%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "10-education",
+   "period": "Weights",
+   "value": 3.0,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "10 Education 3% 0.0% 8.3%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "10-education",
+   "period": "on Jul. 2025",
+   "value": 0.0,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "10 Education 3% 0.0% 8.3%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "10-education",
+   "period": "on Aug. 2024",
+   "value": 8.3,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "10 Education 3% 0.0% 8.3%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "11-restaurants-and-hotels",
+   "period": "Weights",
+   "value": 9.0,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "11 Restaurants and hotels 9% 0.8% 18.5%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "11-restaurants-and-hotels",
+   "period": "on Jul. 2025",
+   "value": 0.8,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "11 Restaurants and hotels 9% 0.8% 18.5%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "11-restaurants-and-hotels",
+   "period": "on Aug. 2024",
+   "value": 18.5,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "11 Restaurants and hotels 9% 0.8% 18.5%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "12-miscellaneous-goods-and-services",
+   "period": "Weights",
+   "value": 6.0,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "12 Miscellaneous goods and services 6% 0.6% 5.4%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "12-miscellaneous-goods-and-services",
+   "period": "on Jul. 2025",
+   "value": 0.6,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "12 Miscellaneous goods and services 6% 0.6% 5.4%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_aug2025",
+   "area": "12-miscellaneous-goods-and-services",
+   "period": "on Aug. 2024",
+   "value": 5.4,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "12 Miscellaneous goods and services 6% 0.6% 5.4%",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_annual_change",
+   "area": "nat",
+   "period": "Aug.",
+   "value": 6.6,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "General index 6.6 5.7 5.1 4.7 4.8 5.0 5.1 5.3 5.4 5.5 5.7 5.9 6.1",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_annual_change",
+   "area": "nat",
+   "period": "Sep.",
+   "value": 5.7,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "General index 6.6 5.7 5.1 4.7 4.8 5.0 5.1 5.3 5.4 5.5 5.7 5.9 6.1",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_annual_change",
+   "area": "nat",
+   "period": "Oct.",
+   "value": 5.1,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "General index 6.6 5.7 5.1 4.7 4.8 5.0 5.1 5.3 5.4 5.5 5.7 5.9 6.1",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_annual_change",
+   "area": "nat",
+   "period": "Nov.",
+   "value": 4.7,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "General index 6.6 5.7 5.1 4.7 4.8 5.0 5.1 5.3 5.4 5.5 5.7 5.9 6.1",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_annual_change",
+   "area": "nat",
+   "period": "Dec.",
+   "value": 4.8,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "General index 6.6 5.7 5.1 4.7 4.8 5.0 5.1 5.3 5.4 5.5 5.7 5.9 6.1",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_annual_change",
+   "area": "nat",
+   "period": "Jan.",
+   "value": 5.0,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "General index 6.6 5.7 5.1 4.7 4.8 5.0 5.1 5.3 5.4 5.5 5.7 5.9 6.1",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_annual_change",
+   "area": "nat",
+   "period": "Feb.",
+   "value": 5.1,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "General index 6.6 5.7 5.1 4.7 4.8 5.0 5.1 5.3 5.4 5.5 5.7 5.9 6.1",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_annual_change",
+   "area": "nat",
+   "period": "Mar.",
+   "value": 5.3,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "General index 6.6 5.7 5.1 4.7 4.8 5.0 5.1 5.3 5.4 5.5 5.7 5.9 6.1",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_annual_change",
+   "area": "nat",
+   "period": "Apr.",
+   "value": 5.4,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "General index 6.6 5.7 5.1 4.7 4.8 5.0 5.1 5.3 5.4 5.5 5.7 5.9 6.1",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_annual_change",
+   "area": "nat",
+   "period": "May.",
+   "value": 5.5,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "General index 6.6 5.7 5.1 4.7 4.8 5.0 5.1 5.3 5.4 5.5 5.7 5.9 6.1",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_annual_change",
+   "area": "nat",
+   "period": "Jun.",
+   "value": 5.7,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "General index 6.6 5.7 5.1 4.7 4.8 5.0 5.1 5.3 5.4 5.5 5.7 5.9 6.1",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_annual_change",
+   "area": "nat",
+   "period": "Jul.",
+   "value": 5.9,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "General index 6.6 5.7 5.1 4.7 4.8 5.0 5.1 5.3 5.4 5.5 5.7 5.9 6.1",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_annual_change",
+   "area": "nat",
+   "period": "Aug.",
+   "value": 6.1,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "General index 6.6 5.7 5.1 4.7 4.8 5.0 5.1 5.3 5.4 5.5 5.7 5.9 6.1",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_annual_change",
+   "area": "core-underlying-index",
+   "period": "Aug.",
+   "value": 6.2,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "Core / Underlying index 6.2 6.0 5.8 5.7 5.7 5.7 5.8 5.8 5.6 5.6 5.6 5.8 6.0",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_annual_change",
+   "area": "core-underlying-index",
+   "period": "Sep.",
+   "value": 6.0,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "Core / Underlying index 6.2 6.0 5.8 5.7 5.7 5.7 5.8 5.8 5.6 5.6 5.6 5.8 6.0",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_annual_change",
+   "area": "core-underlying-index",
+   "period": "Oct.",
+   "value": 5.8,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "Core / Underlying index 6.2 6.0 5.8 5.7 5.7 5.7 5.8 5.8 5.6 5.6 5.6 5.8 6.0",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_annual_change",
+   "area": "core-underlying-index",
+   "period": "Nov.",
+   "value": 5.7,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "Core / Underlying index 6.2 6.0 5.8 5.7 5.7 5.7 5.8 5.8 5.6 5.6 5.6 5.8 6.0",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_annual_change",
+   "area": "core-underlying-index",
+   "period": "Dec.",
+   "value": 5.7,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "Core / Underlying index 6.2 6.0 5.8 5.7 5.7 5.7 5.8 5.8 5.6 5.6 5.6 5.8 6.0",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_annual_change",
+   "area": "core-underlying-index",
+   "period": "Jan.",
+   "value": 5.7,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "Core / Underlying index 6.2 6.0 5.8 5.7 5.7 5.7 5.8 5.8 5.6 5.6 5.6 5.8 6.0",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_annual_change",
+   "area": "core-underlying-index",
+   "period": "Feb.",
+   "value": 5.7,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "Core / Underlying index 6.2 6.0 5.8 5.7 5.7 5.7 5.8 5.8 5.6 5.6 5.6 5.8 6.0",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_annual_change",
+   "area": "core-underlying-index",
+   "period": "Mar.",
+   "value": 5.8,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "Core / Underlying index 6.2 6.0 5.8 5.7 5.7 5.7 5.8 5.8 5.6 5.6 5.6 5.8 6.0",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_annual_change",
+   "area": "core-underlying-index",
+   "period": "Apr.",
+   "value": 5.8,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "Core / Underlying index 6.2 6.0 5.8 5.7 5.7 5.7 5.8 5.8 5.6 5.6 5.6 5.8 6.0",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_annual_change",
+   "area": "core-underlying-index",
+   "period": "May.",
+   "value": 5.6,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "Core / Underlying index 6.2 6.0 5.8 5.7 5.7 5.7 5.8 5.8 5.6 5.6 5.6 5.8 6.0",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_annual_change",
+   "area": "core-underlying-index",
+   "period": "Jun.",
+   "value": 5.6,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "Core / Underlying index 6.2 6.0 5.8 5.7 5.7 5.7 5.8 5.8 5.6 5.6 5.6 5.8 6.0",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_annual_change",
+   "area": "core-underlying-index",
+   "period": "Jul.",
+   "value": 5.6,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "Core / Underlying index 6.2 6.0 5.8 5.7 5.7 5.7 5.8 5.8 5.6 5.6 5.6 5.8 6.0",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi_urban_annual_change",
+   "area": "core-underlying-index",
+   "period": "Aug.",
+   "value": 5.8,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 3,
+   "snippet": "Core / Underlying index 6.2 6.0 5.8 5.7 5.7 5.7 5.8 5.8 5.6 5.6 5.6 5.8 6.0",
+   "status": "ok",
+   "note": null
+  }
+ ],
+ "indicators": {
+  "cpi_urban_aug2025": {
+   "fr": "Percentage change in Aug. 2025",
+   "en": "Percentage change in Aug 2025"
+  },
+  "cpi_urban_annual_change": {
+   "fr": "Consumer Price Index (Urban only): Core and General, annual percentage change (evolution over 12 months)",
+   "en": "Consumer Price Index (urban only): core and general, annual percentage change (12‑month change)"
+  }
+ },
+ "i18n": {
+  "en": {
+   "sourceDoc": "Source publication",
+   "tabOverview": "Overview",
+   "tabData": "Data & sources",
+   "filterLabel": "Areas",
+   "reset": "Reset",
+   "searchPh": "Search an indicator, an area, a year…",
+   "btnCsv": "Download CSV",
+   "btnJson": "Download JSON",
+   "thIndicator": "Indicator",
+   "thArea": "Area",
+   "thPeriod": "Period",
+   "thValue": "Value",
+   "thUnit": "Unit",
+   "thPage": "Page",
+   "thStatus": "Check",
+   "noRows": "No figure matches this search.",
+   "statusOk": "Verified",
+   "statusWarn": "To review",
+   "provLabel": "Read from the source document, page",
+   "calloutTitle": "Read this before reusing the figures",
+   "calloutBody": "These figures were extracted from a PDF by a language model and then checked automatically against the source text. Rows marked “To review” failed at least one check and have not been confirmed by a statistician. Always cite the original publication, not this dashboard.",
+   "dataTitle": "Data & sources",
+   "dataLede": "Every figure on this dashboard, with the page it came from and the line of text it was read from. Search, sort, open a row to see the source, export.",
+   "limTitle": "Limitations",
+   "methTitle": "How this dashboard was built",
+   "methBody": "Text was extracted from the PDF page by page. A rules-based reader and a language model each transcribed the tables independently, and every cell was checked for page provenance, quoted evidence, unit and range, reconciliation with published totals, and agreement between the two readings. The notebook, the prompts and the verification report are in the repository.",
+   "fSource": "Source",
+   "fLicence": "Licence",
+   "fBuilt": "Built with",
+   "fContact": "Contact",
+   "fBuiltBody": "Python, an LLM extraction pipeline, Chart.js. No tracking, no cookies, no server — a single HTML file.",
+   "stamp": "Dashboard generated on {date}. Figures are the responsibility of the source institution; the presentation is the responsibility of the team that built this page.",
+   "syntheticWarn": "Demonstration data — fictional country, for training purposes only.",
+   "kicker": "Consumer Price Index – Urban Rwanda",
+   "title": "Urban Consumer Price Index (CPI)",
+   "subtitle": "Monthly and annual percentage changes of the urban CPI, by component and overall index.",
+   "ovTitle": "Overview",
+   "ovLede": "Key movements in the urban CPI for 2025.",
+   "limBody": "No specific limitations are noted for these data.",
+   "publisher": "National Institute of Statistics",
+   "period": ""
+  },
+  "fr": {
+   "sourceDoc": "Publication source",
+   "tabOverview": "Vue d'ensemble",
+   "tabData": "Données et sources",
+   "filterLabel": "Zones",
+   "reset": "Réinitialiser",
+   "searchPh": "Chercher un indicateur, une zone, une année…",
+   "btnCsv": "Télécharger le CSV",
+   "btnJson": "Télécharger le JSON",
+   "thIndicator": "Indicateur",
+   "thArea": "Zone",
+   "thPeriod": "Période",
+   "thValue": "Valeur",
+   "thUnit": "Unité",
+   "thPage": "Page",
+   "thStatus": "Contrôle",
+   "noRows": "Aucun chiffre ne correspond à cette recherche.",
+   "statusOk": "Vérifié",
+   "statusWarn": "À revoir",
+   "provLabel": "Lu dans le document source, page",
+   "calloutTitle": "À lire avant de réutiliser les chiffres",
+   "calloutBody": "Ces chiffres ont été extraits d'un PDF par un modèle de langage, puis contrôlés automatiquement contre le texte source. Les lignes marquées « À revoir » ont échoué à au moins un contrôle et n'ont pas été confirmées par un statisticien. Citez toujours la publication d'origine, pas ce tableau de bord.",
+   "dataTitle": "Données et sources",
+   "dataLede": "Tous les chiffres de ce tableau de bord, avec la page dont ils proviennent et la ligne de texte dont ils ont été lus. Cherchez, triez, ouvrez une ligne pour voir la source, exportez.",
+   "limTitle": "Limites",
+   "methTitle": "Comment ce tableau de bord a été construit",
+   "methBody": "Le texte a été extrait du PDF page par page. Un lecteur à base de règles et un modèle de langage ont transcrit les tableaux indépendamment, et chaque cellule a été contrôlée : provenance de page, citation vérifiée, unité et plage, réconciliation avec les totaux publiés, et accord entre les deux lectures. Le notebook, les prompts et le rapport de vérification sont dans le dépôt.",
+   "fSource": "Source",
+   "fLicence": "Licence",
+   "fBuilt": "Réalisé avec",
+   "fContact": "Contact",
+   "fBuiltBody": "Python, une chaîne d'extraction par LLM, Chart.js. Aucun traceur, aucun cookie, aucun serveur — un seul fichier HTML.",
+   "stamp": "Tableau de bord généré le {date}. Les chiffres relèvent de la responsabilité de l'institution source ; la présentation relève de la responsabilité de l'équipe qui a construit cette page.",
+   "syntheticWarn": "Données de démonstration — pays fictif, à usage pédagogique uniquement.",
+   "kicker": "Indice des prix à la consommation – Urbain Rwanda",
+   "title": "Indice des prix à la consommation urbain (IPC)",
+   "subtitle": "Variations mensuelles et annuelles en pourcentage de l’IPC urbain, par composante et indice global.",
+   "ovTitle": "Vue d’ensemble",
+   "ovLede": "Principaux mouvements de l’IPC urbain en 2025.",
+   "limBody": "Aucune limitation spécifique n’est mentionnée pour ces données.",
+   "publisher": "Institut National de la Statistique",
+   "period": ""
+  }
+ },
+ "overviewScatter": {
+  "x": "cpi_urban_aug2025",
+  "y": "cpi_urban_annual_change",
+  "title": {
+   "en": "Consumer Price Index (urban only): core and general, annual percentage change (12‑month change) against Percentage change in Aug 2025",
+   "fr": "Consumer Price Index (Urban only): Core and General, annual percentage change (evolution over 12 months) et Percentage change in Aug. 2025"
+  },
+  "sub": {
+   "en": "One point per area — an association, not a causal claim",
+   "fr": "Un point par zone — une association, pas une relation causale"
+  },
+  "src": {
+   "en": "No significance test performed.",
+   "fr": "Aucun test de significativité réalisé."
+  }
+ }
+}
